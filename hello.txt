@@ -2,4 +2,8 @@ hello world
 1111111111111
 2222222222222
 add som content
+<<<<<<< HEAD
 sfdsdfs dfsd 
+=======
+two two twotwotwotwotwo
+>>>>>>> 15d5cbe977850ffbdc6a139efdc29c09282ba2ce
